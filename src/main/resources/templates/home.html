@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Microblog</title>
+    <style>
+    body{
+        -webkit-box-flex: 1;
+        font-family: Futura,serif;
+        justify-content: center;
+        align-content: center;
+        color: floralwhite;
+        background-image: url("https://wallpaperscraft.com/image/dark_background_line_surface_65896_3840x2400.jpg");
+    }
+
+    div {
+        -webkit-flex: 1;
+        font-family: Arial,serif;
+        color: black;
+        width: 100%;
+        height: 4em;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0NDQ0IDQ0NBwgHCA0HBwcHDQ8ICQcNFREWFiARExMYHSggGBolJxUfITEhJSkrLi4uFx8zODMsNygtLisBCgoKBQUFDgUFDisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIAKgBKwMBIgACEQEDEQH/xAAZAAADAQEBAAAAAAAAAAAAAAAAAQIDBAb/xAAYEAEBAQEBAAAAAAAAAAAAAAAAAQIREv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwD0OY0kGY0zALOWmcnnLTOQLOVzKs5XICZlcipFzIJmVTKpFSAnhyLkOQEzJzKuKkBHD4rh8BHBxpwcBnwcaeR5BnwcacLgM+FY14XAZeSuWvCsBjYVjaxNyDG5RY3sTYDC5RrLe5RYDnuWdy6blFyDm1lnrLo1lnrIOe5Rct7E8BrnLTOSzGuYAzlpMjMaZgCRcgkaSAUipDkXIBSHIcipAKRUhyHwCkORXDkBPBxXDBPBxR8BHBxfBwEcLiwCOFxpwuAz4VjSwrAZWFxpYVgMrE2NbE2AysRctrEWAxsRct7GdgMNZZ6y6NRnqA5tZRxvqIuQa5jXMTmNMwFZi8wpGkgHIqQSLkASKkEipAEipBIqQCkVIcgAcPgMC4fDAFwcM+Ang4oAng4YBPBxRAkuL4QIsTY0TYCLE2NLE2AzsRY1sTQY2IsbWIoMdRnqNtRGoDDUZ2NtRHAaZjWRGY0yCsxpInK5AVmKkKKgHIuQoqAcipChgZiGAAMADPgEOGALg4YAiUASD4QEVUQJpKpAiwqupoM7E1pUUEVFjSo0DOs9RrUaBjqIa6jMF5aZRlpkFxcTFwFRUTFwFRUKKgGcI4BwwYAwcAAAAAAAAAAAAVhgEg6QER0gSVVSoIqaqpoIqauooM6jTSo0DKoXUUFZaZZ5aZBpFxnGkBcVERcBcVExUAzhHAUZGBnCOAAAAAAAAAAAAAAFSp0gKlTpAVKnSoIqaqpoJqKuooIqNLqNAzrOrqKB5aZZZrTINYuM8rlBpFxnFQGkVERUBZxMMFQyhgZpMFAj6AAAAAAAAAK0dIAAQAhSAippoFU06igVTTqKCajSqjQIqFaZgM1rGGa0zQbZrSVjmtJQayqlZyrlBcq4zlVKDSVUrOVUBZplALCTBQIAodSfQPo6Q6B9IgBgiAyo6QCkE2gdqaLU2gVqadqaBVFp2ooFWeqeqjVBOqg9VnaBZrXNc2a1zQdGavNYZrTNBvKqVlKuUGsqpWUq5QaSqlZSqlBpKqVn0+g06fUdOUFdPqOmCujqT6B9HS6OgfR1IA+jpdLoGXS6VoHam0WptA7U2lam0DtRaLUWgdrO07WdoDVZ6p6rPVAtVnaNVF0Cc6aZrnzWmdA6M6a505s6aZ0DozpcrDOlyg3lVKxmlzQNpVSsZVSg1lVKylOUGspysuq6DTo6z6fQadHUdHQX0dR0dBfS6npdBfS6npdBXStT0ugq1PStTdAdqbStTaB2otK6RaB2ouiukXQDWmetFrTPWgGtI6WqnoIzWkpAGmdNM6ABpnS5owCppcpgFTSpogC+nKACpTmgAPp9IAfR0AB0dAAdHSADpWgAV0V0ACbStABN0i6ABN0jWiAIumd0ACNaZ6pAEXSLoAH/2Q==");
+    }
+
+    input {
+        font-size: inherit;
+        display: flex;
+        width: 20em;
+        height: 1.5em;
+        background: white;
+        border: 1px solid #ffa853;
+        border-radius: 5px;
+        box-shadow: 0 0 5px 3px #ffa853;
+        color: #666;
+        outline: none;
+    }
+
+    button{
+        -webkit-flex: 1;
+        justify-content: inherit;
+        align-content: inherit;
+        display: inline-flex;
+        size: 1.5em;
+        background: ghostwhite;
+        border: black;
+    }
+    </style>
+</head>
+
+<body>
+
+<div>
+    {{#name}}
+    <div>
+        <form action="/create-message" method="post">
+            <input type="text" placeholder="Enter your message..." name="text"/>
+            <button type="submit">Add</button>
+        </form>
+        <form action="/delete-all" method="post">
+            <button type="submit">Delete All</button>
+        </form>
+    </div>
+</div>
+{{#messages}}
+{{text}}
+<form action="/delete-message" method="post">
+    <input type="hidden" value="{{id}}" name="id"/>
+    <button type="submit">Delete</button>
+</form>
+{{/messages}}{{/name}}
+
+{{^name}}
+<form action="/login" method="post">
+    <input type="text" placeholder="Enter your name..." name="username"/>
+    <button type="submit">Login</button>
+</form>
+{{/name}}
+</body>
+</html>

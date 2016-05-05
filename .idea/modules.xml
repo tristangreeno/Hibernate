@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MicroblogHibernate.iml" filepath="$PROJECT_DIR$/.idea/modules/MicroblogHibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MicroblogHibernate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MicroblogHibernate_main.iml" group="MicroblogHibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MicroblogHibernate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MicroblogHibernate_test.iml" group="MicroblogHibernate" />
+    </modules>
+  </component>
+</project>
