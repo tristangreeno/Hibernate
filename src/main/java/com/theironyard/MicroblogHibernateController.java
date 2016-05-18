@@ -10,7 +10,7 @@ import javax.servlet.http.HttpSession;
 import java.util.List;
 
 /**
- * Created by tristangreeno on 5/5/16.
+ * This program is intended to store all messages on a repository, and then allow the user to edit, add, or delete messages.
  */
 @Controller
 public class MicroblogHibernateController {
@@ -39,6 +39,13 @@ public class MicroblogHibernateController {
 
     @RequestMapping(path = "/create-message", method = RequestMethod.POST)
     public String add(String text) {
+        messageRepo.save(new Message(text));
+        return "redirect:/";
+    }
+
+    @RequestMapping(path = "/edit-message", method = RequestMethod.POST)
+    public String edit(String text, Integer id) {
+        messageRepo.delete(id);
         messageRepo.save(new Message(text));
         return "redirect:/";
     }

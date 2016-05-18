@@ -39,7 +39,6 @@
     }
 
     button{
-        -webkit-flex: 1;
         justify-content: inherit;
         align-content: inherit;
         display: inline-flex;
@@ -69,6 +68,11 @@
 <form action="/delete-message" method="post">
     <input type="hidden" value="{{id}}" name="id"/>
     <button type="submit">Delete</button>
+</form>
+<form action="/edit-message" method="post">
+    <input type="hidden" value="{{id}}" name="id"/>
+    <input type="text" placeholder="Enter a new message here..." name="text"/>
+    <button type="submit">Edit</button>
 </form>
 {{/messages}}{{/name}}
 

@@ -8,6 +8,38 @@
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AndroidStudioProjects/Contacts/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AndroidStudioProjects/Contacts/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AndroidStudioProjects/Contacts/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/about/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/about/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/about/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/about/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/header-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/logos/aetuts.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/logos/creative-market.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/logos/designmodo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/logos/envato.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/logos/microlancer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/logos/themeforest.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/logos/wordpress.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/map-image.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/portfolio/dreams-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/portfolio/dreams.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/portfolio/escape-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/portfolio/escape.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/portfolio/golden-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/portfolio/golden.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/portfolio/roundicons-free.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/portfolio/roundicons.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/portfolio/startup-framework-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/portfolio/startup-framework.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/portfolio/treehouse-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/portfolio/treehouse.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/team/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/team/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/img/team/3.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PeopleAssignment/lib/hamcrest-core-1.3.jar" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PeopleAssignment/lib/jodd-bean-3.6.7.jar" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PeopleAssignment/lib/jodd-core-3.6.7.jar" />
@@ -18,7 +50,17 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PeopleAssignment/out/production/PeopleAssignment/ReadWriteFile.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PeopleAssignment/out/test/PeopleAssignment/ReadWriteFileTest.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTrackerSpring/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/cache.properties.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/fileHashes.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/fileSnapshots.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/outputFileStates.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/taskArtifacts.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/com/theironyard/Message.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/com/theironyard/MessageRepo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/com/theironyard/MicroblogHibernateApplication.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/com/theironyard/MicroblogHibernateController.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/gradle/wrapper/gradle-wrapper.jar" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AndroidStudioProjects/BrowserAndroid/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AndroidStudioProjects/Contacts/.gitignore" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AndroidStudioProjects/Contacts/.idea/compiler.xml" />
@@ -53,6 +95,15 @@
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AndroidStudioProjects/ToDoAndroid/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AndroidStudioProjects/ToDoAndroid/.idea/inspectionProfiles/profiles_settings.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AndroidStudioProjects/ToDoAndroid/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/HelloScala/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/HelloScala/src/Contacts.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/HelloScala/src/Inventory.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/HelloScala/src/Profits.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/LearnScala/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/LearnScala/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/LearnScala/.idea/libraries/scala_sdk_2_11_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/LearnScala/.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/AndroidStudio2.0/inspection/Default.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/AndroidStudio2.0/options/IntelliLang.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/AndroidStudio2.0/options/colors.scheme.xml" />
@@ -71,8 +122,27 @@
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/applicationLibraries.xml" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/filetypes.xml" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/find.recents.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/ignore.xml" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/images.support.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/scala.xml" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/window.state.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/WebStorm2016.1/options/cachedDictionary.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaPurchases/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaPurchases/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaPurchases/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaPurchases/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ToDoScala/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ToDoScala/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ToDoScala/.idea/libraries/scala_sdk_2_11_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ToDoScala/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ToDoScala/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ToDoScala/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ToDoScala/ToDoScala.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ToDoScala/src/ToDo.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ToDoScala/src/ToDoItem.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/untitled3/.idea/dictionaries/tristangreeno.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/untitled3/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/untitled3/dist/portfolio.asp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AjaxChat/.idea/libraries/com_sparkjava_spark_core_2_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AjaxChat/.idea/libraries/org_jodd_jodd_json_3_6_7.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AjaxChat/.idea/vcs.xml" />
@@ -435,9 +505,15 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTrackerSpring/src/main/java/com/theironyard/GameRepository.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTrackerSpring/src/main/java/com/theironyard/GameTrackerController.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTrackerSpring/src/main/java/com/theironyard/GameTrackerSpringApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTrackerSpring/src/main/java/com/theironyard/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTrackerSpring/src/main/java/com/theironyard/UserRepository.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTrackerSpring/src/main/resources/application.properties" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTrackerSpring/src/main/resources/templates/home.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameTrackerSpring/src/test/java/com/theironyard/GameTrackerSpringApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../LearnScala/src/Hello3.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../LearnScala/util/PasswordStorage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/cache.properties" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
@@ -515,7 +591,10 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/MicroblogHibernate_main.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/MicroblogHibernate_test.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/resources/main/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/resources/main/templates/home.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
@@ -526,6 +605,101 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/theironyard/MicroblogHibernateApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__antlr_antlr_2_7_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__com_fasterxml_classmate_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_6_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_6_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_6_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__com_samskivert_jmustache_1_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__dom4j_dom4j_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__javax_transaction_javax_transaction_api_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__javax_validation_validation_api_1_1_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_8_0_33.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_8_0_33.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_33.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_33.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_apache_tomcat_tomcat_jdbc_8_0_33.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_apache_tomcat_tomcat_juli_8_0_33.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_8_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_hibernate_common_hibernate_commons_annotations_4_0_5_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_hibernate_hibernate_core_4_3_11_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_hibernate_hibernate_entitymanager_4_3_11_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_hibernate_hibernate_validator_5_2_4_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_javassist_javassist_3_18_1_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_jboss_jandex_1_1_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_mockito_mockito_core_1_10_19.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_objenesis_objenesis_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_postgresql_postgresql_9_4_1208_jre7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_slf4j_jcl_over_slf4j_1_7_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_slf4j_log4j_over_slf4j_1_7_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_boot_spring_boot_1_3_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_1_3_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_boot_spring_boot_devtools_1_3_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_1_3_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_aop_1_3_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_data_jpa_1_3_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_jdbc_1_3_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_1_3_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_mustache_1_3_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_1_3_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_1_3_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_validation_1_3_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_1_3_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_data_spring_data_commons_1_11_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_data_spring_data_jpa_1_9_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_spring_aop_4_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_spring_aspects_4_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_spring_beans_4_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_spring_context_4_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_spring_core_4_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_spring_expression_4_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_spring_jdbc_4_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_spring_orm_4_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_spring_test_4_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_spring_tx_4_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_spring_web_4_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_springframework_spring_webmvc_4_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__org_yaml_snakeyaml_1_16.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/libraries/Gradle__xml_apis_xml_apis_1_0_b2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/modules/Purchases.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/modules/Purchases_main.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/modules/Purchases_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/gradlew" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/gradlew.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/src/6f448979-purchases.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/src/99c8adfe-customers.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/src/main/java/com/theironyard/Customer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/src/main/java/com/theironyard/CustomerRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/src/main/java/com/theironyard/Purchase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/src/main/java/com/theironyard/PurchaseRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/src/main/java/com/theironyard/PurchasesApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/src/main/java/com/theironyard/PurchasesController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/src/main/resources/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/src/test/java/JavaTests/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Purchases/src/test/java/com/theironyard/PurchasesApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ScalaPurchases/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ScalaPurchases/src/FileIO.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tbgsite/src/main/java/com/tristangreeno/DemoController.java" />
       <change type="DELETED" beforePath="$APPLICATION_CONFIG_DIR$/options/baseRefactoring.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../InventoryTracker/out/production/InventoryTracker/ArrayStorage.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../InventoryTracker/out/production/InventoryTracker/CheckStorage.class" afterPath="" />
@@ -550,6 +724,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../InventoryTracker/out/production/InventoryTracker/PrintStorage.class" afterPath="$PROJECT_DIR$/../InventoryTracker/out/production/InventoryTracker/PrintStorage.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../InventoryTracker/out/production/InventoryTracker/User.class" afterPath="$PROJECT_DIR$/../InventoryTracker/out/production/InventoryTracker/User.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ToDo/out/production/ToDo/ToDoProcess.class" afterPath="$PROJECT_DIR$/../ToDo/out/production/ToDo/ToDoProcess.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/theironyard/MicroblogHibernateController.class" afterPath="$PROJECT_DIR$/build/classes/main/com/theironyard/MicroblogHibernateController.class" />
       <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/cachedDictionary.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/cachedDictionary.xml" />
       <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/debugger.renderers.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/debugger.renderers.xml" />
       <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/find.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/find.xml" />
@@ -601,6 +776,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ToDo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ToDo/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ToDo/ToDo.iml" afterPath="$PROJECT_DIR$/../ToDo/ToDo.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ToDo/src/ToDoProcess.java" afterPath="$PROJECT_DIR$/../ToDo/src/ToDoProcess.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/templates/home.html" afterPath="$PROJECT_DIR$/build/resources/main/templates/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/theironyard/MicroblogHibernateController.java" afterPath="$PROJECT_DIR$/src/main/java/com/theironyard/MicroblogHibernateController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" />
     </list>
     <ignored path="MicroblogHibernate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -641,11 +821,31 @@
       <file leaf-file-name="MicroblogHibernateController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/theironyard/MicroblogHibernateController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+            <state relative-caret-position="577">
+              <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="36" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -655,10 +855,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-              <folding>
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#341#342#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -666,8 +863,8 @@
       <file leaf-file-name="MessageRepo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/theironyard/MessageRepo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+            <state relative-caret-position="90">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -676,11 +873,21 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
+            <state relative-caret-position="252">
+              <caret line="74" column="30" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
               <folding>
                 <element signature="e#644#2442#2" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MicroblogHibernateApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/theironyard/MicroblogHibernateApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -697,7 +904,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -974,15 +1181,17 @@
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/theironyard/MessageRepo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/theironyard/Message.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/com/theironyard/MicroblogHibernateController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/home.html" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
-  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -1020,7 +1229,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1050,18 +1259,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theironyard" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1141,8 +1338,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1150,9 +1347,10 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="FullScreen" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RunManager" selected="Spring Boot.MicroblogHibernateApplication">
     <configuration default="false" name="MicroblogHibernateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
@@ -1479,6 +1677,36 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1563,6 +1791,21 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
     <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.MicroblogHibernateApplication" />
     </list>
@@ -1574,6 +1817,11 @@
   </component>
   <component name="SQLPlugin.ProjectConfiguration">
     <queries />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -1589,12 +1837,14 @@
       <option name="presentableId" value="Default" />
       <updated>1462472785040</updated>
       <workItem from="1462472789385" duration="714000" />
-      <workItem from="1462473789014" duration="4440000" />
+      <workItem from="1462473789014" duration="5231000" />
+      <workItem from="1462816762876" duration="288000" />
+      <workItem from="1463582483754" duration="1453000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5154000" />
+    <option name="totallyTimeSpent" value="7686000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1651,15 +1901,91 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/theironyard/MicroblogHibernateController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/theironyard/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/theironyard/MessageRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
+          <folding>
+            <element signature="e#644#2442#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/theironyard/MicroblogHibernateApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/theironyard/MicroblogHibernateController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/theironyard/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/theironyard/MessageRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#644#2442#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/theironyard/MicroblogHibernateApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#256#257#0" expanded="false" />
-            <element signature="e#327#328#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1677,10 +2003,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1698,15 +2021,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="36" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1714,17 +2028,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding>
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/theironyard/MessageRepo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+        <state relative-caret-position="90">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -1737,10 +2056,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="36" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/theironyard/MicroblogHibernateController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        <state relative-caret-position="577">
+          <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1749,8 +2076,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
+        <state relative-caret-position="252">
+          <caret line="74" column="30" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
           <folding>
             <element signature="e#644#2442#2" expanded="true" />
           </folding>
