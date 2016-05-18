@@ -39,14 +39,19 @@ public class MicroblogHibernateController {
 
     @RequestMapping(path = "/create-message", method = RequestMethod.POST)
     public String add(String text) {
-        messageRepo.save(new Message(text));
+        if(! text.isEmpty()) {
+            messageRepo.save(new Message(text));
+        }
+
         return "redirect:/";
     }
 
     @RequestMapping(path = "/edit-message", method = RequestMethod.POST)
     public String edit(String text, Integer id) {
-        messageRepo.delete(id);
-        messageRepo.save(new Message(text));
+        if(! text.isEmpty()) {
+            messageRepo.delete(id);
+            messageRepo.save(new Message(text));
+        }
         return "redirect:/";
     }
 
